@@ -182,11 +182,11 @@
                 <div class="container py-5">
                     <div class="row">
                         <div class="col-sm text-center">
-                            <p>Minden jog fenntartva &copy;</p>
+                            <p>All rights reserved &copy;</p>
                         </div>
                         <div class="col-sm text-center">
-                            <a href="" class="text-bg-dark">Impresszum</a><br>
-                            <a href="" class="text-bg-dark">Adatkezelési tájékoztató</a>
+                            <a href="" class="text-bg-dark">Impressum</a><br>
+                            <a href="" class="text-bg-dark">Data management policy</a>
                         </div>
                     </div>
                 </div>
