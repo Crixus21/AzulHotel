@@ -99,7 +99,7 @@
 
                     </div>
                     <div class="col-sm">
-                        <img src="images/intro1.jpg" alt="introimg" class="img-fluid">
+                        <img src="images/intro1.jpg" alt="introimg" class="img-fluid pt-3 pt-sm-0">
 
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                     </div>
                     
                     <div class="col-sm order-sm-first">
-                        <img src="images/intro2.jpg" alt="introimg" class="img-fluid">
+                        <img src="images/intro2.jpg" alt="introimg" class="img-fluid pt-3 pt-sm-0">
 
                     </div>
                 </div>
@@ -129,7 +129,7 @@
 
                     </div>
                     <div class="col-sm">
-                        <img src="images/intro3.jpg" alt="introimg" class="img-fluid">
+                        <img src="images/intro3.jpg" alt="introimg" class="img-fluid pt-3 pt-sm-0">
 
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                 <div class="container">
                     <div class="row">
                         <h2 class="text-center mb-5">Find us here</h2>
-                        <div class="col-sm-4">
+                        <div class="col-sm-4 mb-3 mb-sm-0">
                             <div class="ratio ratio-4x3">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d87136.30001447194!2d17.81858034547247!3d46.961505806415154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4769bd123ed3eaff%3A0x400c4290c1e1ba0!2sBalatonf%C3%BCred!5e0!3m2!1shu!2shu!4v1680025952393!5m2!1shu!2shu" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
